@@ -1,4 +1,5 @@
 # autocompleter
+![demo gif](demo.gif)
 A linux commandline web autocompleter
 What it does: It scrapes autocompletes from duckduckgo, youtube and more and displays them. The user can then autocomplete and process the result.
 ## options
